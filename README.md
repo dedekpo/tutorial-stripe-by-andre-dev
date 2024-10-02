@@ -6,6 +6,8 @@ Configuração do Checkout + Webhook
 
 Template para SaaS em pré venda: [https://template.andreelias.dev](https://template.andreelias.dev)
 
+Vídeo explicativo: [https://www.youtube.com/watch?v=Da3Se4LMSTc](https://www.youtube.com/watch?v=Da3Se4LMSTc)
+
 ### Minhas redes:
 
 - **Site:** [https://www.andreelias.dev](https://www.andreelias.dev)
